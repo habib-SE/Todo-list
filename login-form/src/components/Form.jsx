@@ -2,7 +2,7 @@ import React from "react";
 function Form(props){
     return(
         <div>
-        <form className="form" >
+        <form className="form " >
     <div className="container mt-5">
       <div className="row justify-content-center">
         <div className="col-md-6">
