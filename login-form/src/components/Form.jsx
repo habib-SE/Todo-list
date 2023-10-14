@@ -1,4 +1,6 @@
 import React from "react";
+
+// Using a conditional rendering to create a form
 function Form(props){
     return(
         <div>
